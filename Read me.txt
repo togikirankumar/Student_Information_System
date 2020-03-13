@@ -1,0 +1,8 @@
+To run the application
+step 1: Install Xampp 
+step 2:Start mysql srever .It will run on your local host
+step 3:Download all these files 
+step 4:Open "dist" dir
+step 5:Double click on student_information_System
+step 6:password will be your root mysql password (most of the cases password will be "").
+
